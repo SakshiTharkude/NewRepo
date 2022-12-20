@@ -6,5 +6,9 @@ public class Math {
 		// TODO Auto-generated method stub
 		return a+b;
 	}
+	public static int multiple(int a, int b) {
+		// TODO Auto-generated method stub
+		return a*b;
+	}
 
 }
